@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an eminent person in Gloucester, to a friend in London: Dated April 2. 1660. Giving an account of the late passages there, in reference to Maior Gen. Massey.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87941</idno><idno type="EEBO-CITATION">99867306</idno>
+  <idno type="VID">119613</idno>
+  <idno type="EEBO-PROQUEST">2240917459</idno>
+  
+            <idno type="STC">Wing L1445</idno>
+            <idno type="STC">Thomason E1019_20</idno>
+            <idno type="STC">ESTC R208349</idno>
+            <idno type="PROQUEST">99867306</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867306e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119613)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1019[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an eminent person in Gloucester, to a friend in London: Dated April 2. 1660. Giving an account of the late passages there, in reference to Maior Gen. Massey.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Cottrel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April. 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term type="geographic_name">Gloucester (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119613:1"/>
+            <p>A LETTER From an Eminent Person in Gloucester, To a Friend in <hi>LONDON:</hi> Dated <hi>April</hi> 2. 1660.</p>
+            <p>Giving an Account of the late Passa<g ref="char:EOLhyphen"/>ges there, in reference to Maior Gen. Massey.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>James Cottrel.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119613:2"/>
+            <pb n="1" facs="tcp:119613:2"/>
+            <head>A Letter from <hi>Gloucester.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>I Thank you for yours; and that inclosed. Major Gen. <hi>Massey</hi> arrived here on <hi>Saturday</hi> night last: he came in another way then was expected, on purpose to prevent the throngings of the people. He came in betwixt 7 &amp; 8, and took a private lodging. That night, the Maior, She<g ref="char:EOLhyphen"/>riffs and Aldermen came to see him. The Maior invited him and others to dinner on the morrow, being the <hi>Lords day.</hi> He heard a Sermon at St. <hi>Ni<g ref="char:EOLhyphen"/>cholas,</hi> on this text, <hi>Prov.</hi> 29.2. <hi>When the righteous are in authority, the people
+<pb n="2" facs="tcp:119613:3"/>rejoyce: but when the wicked beareth rule, the people mourn.</hi> After Sermon, going with the Minister and others to the Maiors house, and passing by the Main Guard, the Commander in chief, (who the night before had highly complemen<g ref="char:EOLhyphen"/>ted him,) took him by the arm, intima<g ref="char:EOLhyphen"/>ting a desire to speak with him privately; several of the inferiour Officers (one a Captain) crying out, <hi>Fall on, kill the Rogues.</hi> The Minister telling them the Major General was willing to obey or<g ref="char:EOLhyphen"/>ders; and how little honour they would gain by killing men unarmed peaceably coming from hearing the Word, had four or five swords drawn upon him, &amp; a Pi<g ref="char:EOLhyphen"/>stol fired at his ear, which did no execu<g ref="char:EOLhyphen"/>tion, but the soldiers continued their cla<g ref="char:EOLhyphen"/>mour, saying, <hi>The Cavaliers laid designs, and the Presbyterians preacht them up.</hi> By this time it was noised in the City,
+<pb n="3" facs="tcp:119613:3"/>that the Major General and the Mini<g ref="char:EOLhyphen"/>ster was killed: whereupon there was a cry, <hi>Arm, arm,</hi> through all the streets; upon which above 300 appeared imme<g ref="char:EOLhyphen"/>diately in Arms. These running in a tu<g ref="char:EOLhyphen"/>multuous manner, were desired to for<g ref="char:EOLhyphen"/>bear a while; and the Minister being relieved by some of them, he fetch'd the Maior, Aldermen, and divers of the Common Council, who engaged their words to the Commander in chief for Major Gen. <hi>Massey</hi>'s forth coming; upon which, and upon his own Parol, he was permitted to go to dine with the <hi>Maior,</hi> being first disarmed: and in this condition he remains as yet.</p>
+            <p>Sir, in this hurly-burly in the City, the said Officers crying, <hi>Kill, kill,</hi> as be<g ref="char:EOLhyphen"/>fore; and one of them leading a party to the Crosss to oppose the Citizens, he was encountred; and being deserted by
+<pb n="4" facs="tcp:119613:4"/>some of his followers, was forely woun<g ref="char:EOLhyphen"/>ded, and divers of those with him: for so much were the Citizens incensed, that had not great pains been taken, and much mediation used, there had not a foot-soul<g ref="char:EOLhyphen"/>dier been left alive in the City. The horse-men indeed were very civil, affir<g ref="char:EOLhyphen"/>ming themselves to be for them that were for the peace of the Nation and City.</p>
+            <p>In about two hours time, all was quiet: Major Gen. <hi>Massey</hi> making a Speech to the Citizens, desiring them to mani<g ref="char:EOLhyphen"/>fest their love to him, by a peaceable de<g ref="char:EOLhyphen"/>parture to their habitations: the Bell<g ref="char:EOLhyphen"/>man (according to the custom) being commanded to proclaim the like.</p>
+            <p>These stirs thus over, the Maior and Common Council sate, and voted Ma<g ref="char:EOLhyphen"/>jor Gen. <hi>Massey</hi> a free man, and made him so, in regard that <hi>Tuesday</hi> is the County-Court: but the Writ for Ele<g ref="char:EOLhyphen"/>ctions
+<pb n="5" facs="tcp:119613:4"/>is concealed by a certain person, (you may guess who) who also got the Order (signed <hi>March</hi> 27.) to apprehend Major Gen. <hi>Massey,</hi> upon pretence that he came hither to raise an Army. It is very strange the Writ should be con<g ref="char:EOLhyphen"/>cealed till after Election-day: but I be<g ref="char:EOLhyphen"/>lieve he will be chosen here, notwithstan<g ref="char:EOLhyphen"/>ding all this opposition.</p>
+            <p>Last night came Major <hi>Harlow</hi> very late, (but seasonably) who hath under<g ref="char:EOLhyphen"/>taken to keep us in peace, and stop the march of a party of <hi>Hesilrig</hi>'s Horse sent for hither by the Phanaticks, to help them here.</p>
+            <p>Sir, I being an eye-witness of these a<g ref="char:EOLhyphen"/>ctions, do send you this Narrative, to prevent mis-information. VVe are all quiet now: The City keeps a guard at the <hi>Tolsey,</hi> and the Souldiers at their Main-guard. To morrow, the Militia
+<pb n="6" facs="tcp:119613:5"/>are to meet. And to the end the whole Nation may know the truth hereof, I desire you to communicate it by print<g ref="char:EOLhyphen"/>ing. There is onely one Ensigne and five Souldiers wounded. The Ensigne said the night before, that he was resolved to wade up to the knees in blood, but he would have <hi>Major Gen. Massey</hi>'s heart-blood.</p>
+            <p>Sir, excuse this trouble. I remain,</p>
+            <closer>
+               <dateline>
+                  <hi>Gloucester,</hi>
+                  <date>A<g ref="char:EOLhyphen"/>pril 2. 1660.</date>
+               </dateline>
+               <signed>Your affectionate Friend.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
